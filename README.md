@@ -367,13 +367,13 @@ Several weights included or references here were pretrained with proprietary dat
 
 ```
 @misc{rw2019timm,
-  author = {Ross Wightman},
+  author = {Tan Sy NGUYEN},
   title = {PyTorch Image Models},
-  year = {2019},
+  year = {2021},
   publisher = {GitHub},
   journal = {GitHub repository},
   doi = {10.5281/zenodo.4414861},
-  howpublished = {\url{https://github.com/rwightman/pytorch-image-models}}
+  howpublished = {\url{https://github.com/tansyab1/EfficientNet-V2}}
 }
 ```
 
